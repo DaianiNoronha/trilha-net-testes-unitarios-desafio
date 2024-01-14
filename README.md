@@ -85,5 +85,4 @@ O código de testes está pela metade, e você deverá dar continuidade implemen
 Esse projeto foi desenvolvido durante a Trilha .NET da DIO com grau de dificuldade "Avançado" e fazendo uso das seguintes tecnologias:
 
 - C#
-- .NET
 - Git e Github
